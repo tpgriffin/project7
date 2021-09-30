@@ -16,8 +16,8 @@ Installation
 7. Download the appropriate Firefox/gecko driver that matches your browser version (https://github.com/mozilla/geckodriver/releases). Firefox/gecko driver v0.30.0 is included for convenience.
 
 Syntax
-- node 1-scenario-homePage
-- node 2-scenario-eventsPage 
+- node 1a-scenario-homePage
+- node 1b-scenario-eventsPage 
 - Note: For the 1st execution, allow network access if necessary.
 
 Improvements
