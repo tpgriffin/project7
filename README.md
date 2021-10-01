@@ -1,11 +1,12 @@
 # zwift-assessment
-The JavaScript assessment supports Firefox.
 
-Comments
-- I clear the Zwift website Cookies Statement (truste-consent-button), at no extra charge!
-- The js scripts were intended to work with Chrome or Firefox BUT **only Firefox is currently supported** due to differences between the browsers (and a lack of time to resolve).
+**Notes**
+- **The JavaScript assessment supports Firefox.**
+- In the **js scripts** I clear the Zwift Cookies Statement (truste-consent-button), at no extra charge!
+- The **js scripts** were intended to work with Firefox and Chrome BUT **only Firefox is currently supported** due to differences between the browsers (and a lack of time to resolve).
+- The **cpp code** was not compiled or tested so I expect the functions need to be debugged and tested.
 
-Installation
+**JavaScript Installation**
 1. If needed (recommended), create a new directory for this test.
 2. Unzip the github distribution files (https://github.com/tpgriffin/zwift-assessment) to your directory.
 2. Download the node installer appropriate to your OS and save it to your directory: https://nodejs.org/ (The Win 10 x64 installer is included for convenience).
@@ -15,11 +16,11 @@ Installation
 6. Install Selenium with: npm install selenium-webdriver
 7. Download the appropriate Firefox/gecko driver that matches your browser version (https://github.com/mozilla/geckodriver/releases). Firefox/gecko driver v0.30.0 is included for convenience.
 
-Syntax
+**Running JavaScript**
 - node 1a-scenario-homePage
 - node 1b-scenario-eventsPage 
 - Note: For the 1st execution, allow network access if necessary.
 
-Improvements
-- The js code should be tighter by using local functions.
-- I stopped defining Consts in js to have more time for the C++ assessment.
+**JavaScript Improvements**
+- The js code should be tighter, common tasks should use shared functions.
+- I stopped defining Consts in the js code to have more time for the C++ assessment.
