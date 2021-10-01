@@ -4,7 +4,7 @@
 - **The JavaScript assessment supports Firefox.**
 - In the **js scripts** I clear the Zwift Cookies Statement (truste-consent-button), at no extra charge!
 - The **js scripts** were intended to work with Firefox and Chrome BUT **only Firefox is currently supported** due to differences between the browsers (and a lack of time to resolve).
-- The **cpp code** was not compiled or tested so I expect the functions need to be debugged and tested.
+- The **cpp code** was not compiled or tested so I expect the functions need to be debugged.
 
 **JavaScript Installation**
 1. If needed (recommended), create a new directory for this test.
