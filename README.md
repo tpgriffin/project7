@@ -9,7 +9,7 @@
 **JavaScript Installation**
 1. If needed (recommended), create a new directory for this test.
 2. Unzip the github distribution files (https://github.com/tpgriffin/project7) to your directory.
-2. Download the node installer appropriate to your OS and save it to your directory: https://nodejs.org/. **The Win 10 x64 nodejs installer is included for convenience.**
+2. Download the node installer appropriate to your OS and save it to your directory: https://nodejs.org/.
 3. Start the node installer (use defaults but select "Automatically install the necessary tools" on the 3rd screen).
 4. Tools for node.js will install next, use defaults. This install takes a while, get coffee, etc (Visual Studio errors are acceptable).
 5. Open a cmd terminal in your directory
