@@ -24,3 +24,4 @@
 **JavaScript Improvements**
 - The js code should be tighter, common tasks should use shared functions.
 - I stopped defining Consts in the js code to have more time for the C++ assessment.
+- In 1b-scenario-eventsPage.js, the initial number of Events is sometimes reported wrong (esp on fast computers, timing problem). Log: "Passed, 1, orig events found"
